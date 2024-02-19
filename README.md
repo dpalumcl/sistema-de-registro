@@ -14,4 +14,5 @@
 - Ordenando el trabajo: mas claro en el uso de git 
 - me gusta mas la version de escritorio que usar terminal y lineas de comando
 - entiendo las lineas de comando pero la version desktop facilita bastante
-
+- de todas maneras hay que estudiar mas sobre git y github pero ya 
+- me está resultando y funcionando como yo queria 
